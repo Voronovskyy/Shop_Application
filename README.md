@@ -1,6 +1,7 @@
 # Shop_Application
 
 This is a project of a small shop, that has 4 sections:
+
 ![](https://github.com/Traveler1357/Shop_Application/blob/master/Images/Departments.png)
 ![](https://github.com/Traveler1357/Shop_Application/blob/master/Images/Shop.png)
 ## Usage
